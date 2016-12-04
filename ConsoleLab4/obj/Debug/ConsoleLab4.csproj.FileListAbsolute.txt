@@ -1,0 +1,12 @@
+c:\users\iam\documents\visual studio 2015\Projects\ConsoleLab4\ConsoleLab4\bin\Debug\ConsoleLab4.exe.config
+c:\users\iam\documents\visual studio 2015\Projects\ConsoleLab4\ConsoleLab4\bin\Debug\ConsoleLab4.exe
+c:\users\iam\documents\visual studio 2015\Projects\ConsoleLab4\ConsoleLab4\bin\Debug\ConsoleLab4.pdb
+c:\users\iam\documents\visual studio 2015\Projects\ConsoleLab4\ConsoleLab4\obj\Debug\ConsoleLab4.csprojResolveAssemblyReference.cache
+c:\users\iam\documents\visual studio 2015\Projects\ConsoleLab4\ConsoleLab4\obj\Debug\ConsoleLab4.exe
+c:\users\iam\documents\visual studio 2015\Projects\ConsoleLab4\ConsoleLab4\obj\Debug\ConsoleLab4.pdb
+c:\users\iam\documents\visual studio 2015\Projects\ConsoleLab4\ConsoleLab4\bin\Debug\ConsoleLab4B.exe
+c:\users\iam\documents\visual studio 2015\Projects\ConsoleLab4\ConsoleLab4\bin\Debug\ConsoleLab4C.exe
+c:\users\iam\documents\visual studio 2015\Projects\ConsoleLab4\ConsoleLab4\bin\Debug\ConsoleLab4B.pdb
+c:\users\iam\documents\visual studio 2015\Projects\ConsoleLab4\ConsoleLab4\bin\Debug\ConsoleLab4C.pdb
+C:\Users\Iam\Documents\Visual Studio 2015\Projects\ConsoleLab4\ConsoleLab4\bin\Debug\NoteKeeper-interface.exe
+C:\Users\Iam\Documents\Visual Studio 2015\Projects\ConsoleLab4\ConsoleLab4\bin\Debug\NoteKeeper-interface.pdb

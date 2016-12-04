@@ -1,0 +1,5 @@
+c:\users\iam\documents\visual studio 2015\Projects\ConsoleLab4\ConsoleLab4B\bin\Debug\ConsoleLab4B.exe.config
+c:\users\iam\documents\visual studio 2015\Projects\ConsoleLab4\ConsoleLab4B\bin\Debug\ConsoleLab4B.exe
+c:\users\iam\documents\visual studio 2015\Projects\ConsoleLab4\ConsoleLab4B\bin\Debug\ConsoleLab4B.pdb
+c:\users\iam\documents\visual studio 2015\Projects\ConsoleLab4\ConsoleLab4B\obj\Debug\ConsoleLab4B.exe
+c:\users\iam\documents\visual studio 2015\Projects\ConsoleLab4\ConsoleLab4B\obj\Debug\ConsoleLab4B.pdb

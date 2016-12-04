@@ -1,0 +1,8 @@
+C:\Users\Iam\Documents\Visual Studio 2015\Projects\ConsoleLab4\WFA\bin\Debug\WFA.exe.config
+C:\Users\Iam\Documents\Visual Studio 2015\Projects\ConsoleLab4\WFA\bin\Debug\WFA.exe
+C:\Users\Iam\Documents\Visual Studio 2015\Projects\ConsoleLab4\WFA\bin\Debug\WFA.pdb
+C:\Users\Iam\Documents\Visual Studio 2015\Projects\ConsoleLab4\WFA\obj\Debug\WFA.Form1.resources
+C:\Users\Iam\Documents\Visual Studio 2015\Projects\ConsoleLab4\WFA\obj\Debug\WFA.Properties.Resources.resources
+C:\Users\Iam\Documents\Visual Studio 2015\Projects\ConsoleLab4\WFA\obj\Debug\WFA.csproj.GenerateResource.Cache
+C:\Users\Iam\Documents\Visual Studio 2015\Projects\ConsoleLab4\WFA\obj\Debug\WFA.exe
+C:\Users\Iam\Documents\Visual Studio 2015\Projects\ConsoleLab4\WFA\obj\Debug\WFA.pdb
